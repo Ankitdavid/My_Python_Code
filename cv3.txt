@@ -1,0 +1,5 @@
+Python is a programming language
+Python is a platform 
+Python is a framework
+Python is a library
+Python is a tool
